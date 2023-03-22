@@ -1,0 +1,22 @@
+h1 {
+    margin:10px;
+}
+
+p {
+    margin:10px;
+}
+
+#hallitus {
+    background-color: white;
+    color:black;
+}
+
+.row {
+    background-color: black;
+    color: white;
+}
+
+
+/*muuta käytettyjen linkkien värit nätimmiksi*/
+/*muuta taustaväri hallituksen jäsenten gridille 
+(vai muutetaanko navigaatio erilliseksi, jolloin row jää käytettäväksi hallitusten jäsenten gridiin?*/
